@@ -1,0 +1,37 @@
+# Site settings
+name: Gianpiero Esposito
+title: Gianpiero Esposito
+description: Dynamic engineer with a robust background in designing and implementing advanced solutions across diverse business sectors
+url: https://espogian.github.io/
+baseurl: ''
+email: me@gianpieroesposito.it
+cover: https://espogian.github.io/img/og.png
+logo: ttps://espogian.github.io/img/emojis/rocket.png
+resume: https://espogian.github.io/resume.pdf
+social:
+  - title: email
+    url: mailto:me@gianpieroesposito.it
+  - title: linkedin
+    url: https://www.linkedin.com/in/espogian/
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap
