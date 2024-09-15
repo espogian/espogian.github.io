@@ -4,13 +4,13 @@ title: Gianpiero Esposito
 description: Dynamic engineer with a robust background in designing and implementing advanced solutions across diverse business sectors
 url: https://espogian.github.io/
 baseurl: ''
-email: me@gianpieroesposito.it
+email: mail@gianpieroesposito.it
 cover: https://espogian.github.io/img/og.png
-logo: ttps://espogian.github.io/img/emojis/rocket.png
+logo: https://espogian.github.io/img/emojis/rocket.png
 resume: https://espogian.github.io/resume.pdf
 social:
   - title: email
-    url: mailto:me@gianpieroesposito.it
+    url: mailto:mail@gianpieroesposito.it
   - title: linkedin
     url: https://www.linkedin.com/in/espogian/
 
@@ -35,3 +35,7 @@ keep_files:
 plugins_dir:
   - jekyll-minifier
   - jekyll-sitemap
+
+sass:
+  style: expanded
+  sass_dir: _sass

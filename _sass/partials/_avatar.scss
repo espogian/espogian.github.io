@@ -1,0 +1,12 @@
+.avatar {
+  width: 15% !important;
+  height: auto !important;
+  border-radius: 15% !important;
+}
+
+/* For smaller screens (like smartphones), adjust the size */
+@media screen and (max-width: 768px) {
+  .avatar {
+    width: 40% !important; /* Adjust the percentage to suit smaller screens */
+  }
+}

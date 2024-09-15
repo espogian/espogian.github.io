@@ -1,33 +1,41 @@
-languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+- name: Programming Languages
+  items:
+    - item: Python
+    - item: SQL
+    - item: Bash
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+- name: Cloud Platforms
+  items:
+    - item: AWS
+    - item: GCP
+    - item: Azure
+    - item: MongoDB Atlas
+    - item: Cloudera
 
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+- name: Data Visualization & Analytics
+  items:
+    - item: Power BI
+    - item: Qlik
+    - item: Grafana
+    - item: Kibana
+    - item: GIS
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+- name: Networking & Telecommunications
+  items:
+    - item: SDN/NFV
+    - item: VoIP/SIP
+    - item: SBC
+
+- name: DevOps & Tools
+  items:
+    - item: Git & GitHub
+    - item: Chrome DevTools
+    - item: Postman
+    - item: Spark
+    - item: Kafka
+    - item: Elasticsearch
+    - item: Docker
+    - item: Kubernetes
+    - item: Confluence
+    - item: Jira
+    - item: BitBucket

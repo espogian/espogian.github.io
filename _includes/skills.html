@@ -1,40 +1,20 @@
-<section class="section skills">
+<section class="section custom-skills">
   <div class="section__title">Skills</div>
   <div class="section__content">
-    <p>I’ve picked up quite a few skills during the course of my three co-ops, and aim to improve these skills everyday. Here are a few of the technologies that I have experience with:</p>
-    <div class="skillz">
-      <div class="skillz__category">
-        <div class="skillz__category__label">Languages</div>
-        <ul>
-          {% for language in site.data.skills.languages %}
-          <li class="skillz__category__item">{{language.item}}</li>
-          {% endfor %}
-        </ul>
+    <p>I’ve picked up quite a few skills during my work experience, and aim to improve these skills everyday.
+      Here are a few of the technologies that I have experience with:
+    </p>
+    {% for skill in site.data.skills %}
+    <div class="custom-skill">
+      <div class="custom-skill__name">
+        <strong>{{skill.name}}</strong>
       </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Frameworks</div>
-        <ul>
-          {% for framework in site.data.skills.frameworks %}
-          <li class="skillz__category__item">{{framework.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Tools</div>
-        <ul>
-          {% for tool in site.data.skills.tools %}
-          <li class="skillz__category__item">{{tool.item}}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="skillz__category">
-        <div class="skillz__category__label">Design</div>
-        <ul>
-          {% for thing in site.data.skills.design %}
-          <li class="skillz__category__item">{{thing.item}}</li>
-          {% endfor %}
-        </ul>
+      <div class="custom-skill__used">
+        {% for item in skill.items %}
+        <span class="custom-skill__used__item">{{item.item}}</span>
+        {% endfor %}
       </div>
     </div>
+    {% endfor %}
   </div>
 </section>

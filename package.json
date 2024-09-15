@@ -1,12 +1,12 @@
 {
-  "name": "brittanychiang.com",
+  "name": "gianpieroesposito.it",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Dynamic engineer with a robust background in designing and implementing advanced solutions across diverse business sectors",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/espogian.github.io"
+    "url": "https://github.com/espogian"
   },
-  "homepage": "https://github.com/bchiang7/espogian.github.io",
+  "homepage": "https://github.com/espogian",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
@@ -24,5 +24,8 @@
     "gulp-imagemin": "6.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "3.0.2"
+  },
+  "dependencies": {
+    "sass": "^1.78.0"
   }
 }

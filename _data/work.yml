@@ -1,0 +1,42 @@
+- company: Enel X S.r.l.
+  url: https://www.enelx.com
+  time: Sep 2021 - Present
+  position: Solutions Architect
+  responsibilities:
+    - Analyse business requirements to design digital solutions for smart city projects, adopting cloud and micro-services architectures with a CI/CD and agile approach;
+    - Oversee the end-to-end lifecycle of digital solutions, ensuring alignment with business goals and effective change management;
+    - Conduct PoC activities with the Innovation function to design and evaluate future-proof solutions within enterprise architectures.
+
+- company: Vodafone Italia S.p.A.
+  url: https://www.vodafone.com
+  time: Feb 2018 - Sep 2021
+  position: Solutions Architect / Data Scientist
+  responsibilities:
+    - Analyse network data to enhance performance and user experience, developing and implementing big data solutions and machine learning models;
+    - Lead technical acceptance certification, including functional and cybersecurity assessments, for various networking, Unified Communication, and IoT products belonging to Vodafone Business portfolio;
+    - Support pre-sales activities and end-to-end solution design for Vodafone Business, including customised technical solutions and presentations for customers.
+
+- company: TIM S.p.A.
+  url: https://www.tim.it
+  time: Sep 2013 - Jan 2018
+  position: Systems Architect
+  responsibilities:
+    - Analyse network data to enhance performance and user experience, developing and implementing big data solutions and machine learning models;
+    - Lead technical acceptance certification, including functional and cybersecurity assessments, for various networking, Unified Communication, and IoT products belonging to Vodafone Business portfolio;
+    - Support pre-sales activities and end-to-end solution design for Vodafone Business, including customised technical solutions and presentations for customers.
+
+- company: CREATE Consortium
+  url: https://www.create.unina.it/
+  time: Dec 2012 - Dec 2016
+  position: R&D Engineer
+  responsibilities:
+    - Development of an innovative methodology for designing complex mechanical systems, integrating Quality Function Deployment and TRIZ theory; this methodology has been applied to the design of a core component of the DEMO fusion reactor, with part of the research activity conducted at VTT Technical Research Centre in Tampere, Finland;
+    - Creation of concept designs for mechanical equipment used in forestry operations, collaborating with the Forest Engineering department of the Bartin University (Turkey) and the Italian National Research Council (CNR).
+
+- company: TeleContact Center S.p.A.
+  url: 
+  time: Feb 2012 - Sep 2013
+  position: Customer Service Representative
+  responsibilities:
+    - Inbound and outbound contacts management on all commercial, administrative and technical issues for both consumer and business clients of TIM S.p.A.;
+    - Statistical data analysis on internal processes with the creation of reports to improve the operations.
