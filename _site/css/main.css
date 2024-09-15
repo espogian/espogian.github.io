@@ -564,9 +564,10 @@ strong {
 }
 
 .avatar {
-  width: 15% !important;
-  height: auto !important;
-  border-radius: 15% !important;
+  max-width: 150px;
+  height: auto;
+  border-radius: 15%;
+  object-fit: cover;
 }
 
 /* For smaller screens (like smartphones), adjust the size */
