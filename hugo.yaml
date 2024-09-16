@@ -1,4 +1,7 @@
-baseURL: "https://espogian.github.io/"
+baseURL: "https://gianpieroesposito.it/"
+# copyright: "This is a copyright"
+enableRobotsTXT: true
+
 title: Gianpiero Esposito
 pagination:
   pagerSize: 5
@@ -9,7 +12,6 @@ services:
   googleAnalytics:
     ID: "G-34EZ5397XY"
 
-enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
@@ -22,8 +24,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "My personal website"
+  title: Gianpiero Esposito
+  description: "Gianpiero Esposito personal website"
   keywords: [Personal, Website, Portfolio, Resume]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -71,8 +73,7 @@ params:
     title: Gianpiero Esposito
     subtitle: |
       Hello! I'm a Solutions Architect expert in Cloud Architectures, Data Solutions, IT Systems and Telecommunications.
-      ❤️ driving Innovation and Digital Transformation.
-      
+      ❤️ driving Innovation and Digital Transformation.  
       Get in touch with me:
     imageUrl: "/images/my_picture.jpg"
     imageWidth: 120
