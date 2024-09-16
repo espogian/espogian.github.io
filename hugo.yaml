@@ -5,6 +5,10 @@ pagination:
 theme: PaperMod
 publishDir: docs
 
+services:
+  googleAnalytics:
+    ID: "G-34EZ5397XY"
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
