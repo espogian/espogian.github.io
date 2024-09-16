@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:63407/</loc>
+    <lastmod>2024-09-15T19:24:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/about/</loc>
+    <lastmod>2024-09-15T19:24:07+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/tags/database/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/tags/java/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/posts/about/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/posts/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/tags/</loc>
+    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63407/g-34ez5397xy/</loc>
+  </url>
+</urlset>
