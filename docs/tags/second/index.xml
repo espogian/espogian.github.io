@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Second on Gianpiero Esposito</title>
-    <link>https://gianpieroesposito.it/tags/second/</link>
+    <link>https://espogian.github.io/tags/second/</link>
     <description>Recent content in Second on Gianpiero Esposito</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
-    <atom:link href="https://gianpieroesposito.it/tags/second/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://espogian.github.io/tags/second/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://gianpieroesposito.it/about/</link>
+      <link>https://espogian.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gianpieroesposito.it/about/</guid>
+      <guid>https://espogian.github.io/about/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
