@@ -3,6 +3,7 @@ title: Gianpiero Esposito
 pagination:
   pagerSize: 5
 theme: PaperMod
+publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
